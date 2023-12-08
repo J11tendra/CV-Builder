@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { X } from "react-feather";
+import { X } from "feather-icons-react";
 
 import InputControl from "../InputControl/InputControl";
 
